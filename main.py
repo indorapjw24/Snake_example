@@ -1,5 +1,5 @@
 import pygame
-import random
+
 
 # setting up some initial parameters
 WIDTH, HEIGHT = 600, 600
@@ -155,4 +155,3 @@ if __name__ == '__main__':
     run()
 
 
-    
