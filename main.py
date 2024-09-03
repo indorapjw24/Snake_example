@@ -1,5 +1,5 @@
 import pygame
-
+import random
 
 # setting up some initial parameters
 WIDTH, HEIGHT = 600, 600
